@@ -92,7 +92,7 @@ def getManCityData(seqBreak):
     )
 
     # Show the plot
-    return fig.show()
+    return fig
 
 
 def getArsenalData(seqBreak):
