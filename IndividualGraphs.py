@@ -184,7 +184,7 @@ def getArsenalData(seqBreak):
     )
 
     # Show the plot
-    return fig.show()
+    return fig
 
 def getBrightonData(seqBreak):
     with open('Match_Data/Brighton_MatchData.json', 'r') as json_file:
@@ -275,7 +275,7 @@ def getBrightonData(seqBreak):
     )
 
     # Show the plot
-    return fig.show()
+    return fig
 
 def getNewcastleData(seqBreak):
     with open('Match_Data/Newcastle_MatchData.json', 'r') as json_file:
@@ -366,4 +366,4 @@ def getNewcastleData(seqBreak):
     )
 
     # Show the plot
-    return fig.show()
+    return fig

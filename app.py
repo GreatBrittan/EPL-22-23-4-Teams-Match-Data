@@ -24,12 +24,22 @@ def run_python_script():
         return render_template('plot_template.html', content=html_content)
     if(dataset_index == '1'):    
         result = getArsenalData( int(index))
+        img_bytes = pio.to_image(result, format='png')
+        img_base64 = base64.b64encode(img_bytes).decode('utf-8')
+        html_content = f'<img src="data:image/png;base64,{img_base64}" alt="scatter_plot">'
+        return render_template('plot_template.html', content=html_content)
     if(dataset_index == '2'):    
         result = getBrightonData( int(index))
-        return render_template('plot_template.html', plotly_figure=result)
+        img_bytes = pio.to_image(result, format='png')
+        img_base64 = base64.b64encode(img_bytes).decode('utf-8')
+        html_content = f'<img src="data:image/png;base64,{img_base64}" alt="scatter_plot">'
+        return render_template('plot_template.html', content=html_content)
     if(dataset_index == '3'):    
         result = getNewcastleData( int(index))
-        return render_template('plot_template.html', plotly_figure=result)
+        img_bytes = pio.to_image(result, format='png')
+        img_base64 = base64.b64encode(img_bytes).decode('utf-8')
+        html_content = f'<img src="data:image/png;base64,{img_base64}" alt="scatter_plot">'
+        return render_template('plot_template.html', content=html_content)
     return redirect(url_for('home'))
 if __name__ == '__main__':
     from waitress import serve
