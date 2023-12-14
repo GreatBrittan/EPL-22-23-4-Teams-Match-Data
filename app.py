@@ -32,6 +32,6 @@ def run_python_script():
         return render_template('plot_template.html', plotly_figure=result)
     return redirect(url_for('home'))
 if __name__ == '__main__':
-    #from waitress import serve
-    #serve(app, host="0.0.0.0", port=8080)
-    app.run(debug=True)
+    from waitress import serve
+    serve(app, host="0.0.0.0", port=8080)
+    #app.run(debug=True)
