@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plot Page</title>
+    <!-- Include Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="plotly-figure"></div>
+
+    <script>
+        // Render the Plotly figure
+        var figure = {{ plotly_figure|tojson|safe }};
+        Plotly.newPlot('plotly-figure', figure.data, figure.layout);
+    </script>
+</body>
+</html>

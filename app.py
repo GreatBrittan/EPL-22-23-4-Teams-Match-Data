@@ -13,12 +13,16 @@ def run_python_script():
     index = request.args.get('index') 
     if(dataset_index == '0'):    
         result = getManCityData( int(index))
+        return render_template('plot_template.html', plotly_figure=result)
     if(dataset_index == '1'):    
         result = getArsenalData( int(index))
+        return render_template('plot_template.html', plotly_figure=result)
     if(dataset_index == '2'):    
         result = getBrightonData( int(index))
+        return render_template('plot_template.html', plotly_figure=result)
     if(dataset_index == '3'):    
         result = getNewcastleData( int(index))
+        return render_template('plot_template.html', plotly_figure=result)
     return redirect(url_for('home'))
 if __name__ == '__main__':
     from waitress import serve
