@@ -85,7 +85,7 @@ def getManCityData(seqBreak):
 
     # Update the overall layout
     fig.update_layout(
-        title_text=f'Team Comparison for {match_data["matchweek"]}                                                                      {team1_name} vs {team2_name}',
+        title_text=f'Team Comparison for Matchweek #{seqBreak}                                                                    {team1_name} vs {team2_name}',
         showlegend=False,  # Hide legend for clarity
         width=1800,
         height=1000
@@ -177,7 +177,7 @@ def getArsenalData(seqBreak):
 
     # Update the overall layout
     fig.update_layout(
-        title_text=f'Team Comparison for {match_data["matchweek"]}                                                                      {team1_name} vs {team2_name}',
+        title_text=f'Team Comparison for Matchweek #{seqBreak}                                                                      {team1_name} vs {team2_name}',
         showlegend=False,  # Hide legend for clarity
         width=1800,
         height=1000
@@ -268,7 +268,7 @@ def getBrightonData(seqBreak):
 
     # Update the overall layout
     fig.update_layout(
-        title_text=f'Team Comparison for {match_data["matchweek"]}                                                                      {team1_name} vs {team2_name}',
+        title_text=f'Team Comparison for Matchweek #{seqBreak}                                                                      {team1_name} vs {team2_name}',
         showlegend=False,  # Hide legend for clarity
         width=1800,
         height=1000
@@ -359,7 +359,7 @@ def getNewcastleData(seqBreak):
 
     # Update the overall layout
     fig.update_layout(
-        title_text=f'Team Comparison for {match_data["matchweek"]}                                                                      {team1_name} vs {team2_name}',
+        title_text=f'Team Comparison for Matchweek #{seqBreak}                                                                      {team1_name} vs {team2_name}',
         showlegend=False,  # Hide legend for clarity
         width=1800,
         height=1000
