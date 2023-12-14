@@ -1,0 +1,560 @@
+{
+    "17": {
+        "matchweek": "Matchweek 1",
+        "team1_name": "Manchester United",
+        "team1_stat": {
+            "possession_%": "62.9",
+            "shots_on_target": "5",
+            "shots": "17",
+            "touches": "732",
+            "passes": "548",
+            "tackels": "12",
+            "clearances": "10",
+            "corners": "6",
+            "offsides": "3",
+            "yellow_cards": "4",
+            "foul_conceded": "7"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "37.1",
+            "shots_on_target": "4",
+            "shots": "15",
+            "touches": "509",
+            "passes": "326",
+            "tackels": "14",
+            "clearances": "24",
+            "corners": "2",
+            "offsides": "1",
+            "yellow_cards": "1",
+            "foul_conceded": "12"
+        }
+    },
+    "16": {
+        "matchweek": "Matchweek 2",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "54.5",
+            "shots_on_target": "7",
+            "shots": "13",
+            "touches": "542",
+            "passes": "374",
+            "tackels": "18",
+            "clearances": "19",
+            "corners": "7",
+            "offsides": "1",
+            "yellow_cards": "2",
+            "foul_conceded": "8"
+        },
+        "team2_name": "Newcastle United",
+        "team2_stat": {
+            "possession_%": "45.5",
+            "shots_on_target": "1",
+            "shots": "4",
+            "touches": "508",
+            "passes": "314",
+            "tackels": "12",
+            "clearances": "32",
+            "corners": "3",
+            "offsides": "4",
+            "yellow_cards": "3",
+            "foul_conceded": "6"
+        }
+    },
+    "15": {
+        "matchweek": "Matchweek 3",
+        "team1_name": "West Ham United",
+        "team1_stat": {
+            "possession_%": "49.6",
+            "shots_on_target": "3",
+            "shots": "13",
+            "touches": "633",
+            "passes": "467",
+            "tackels": "8",
+            "clearances": "12",
+            "corners": "5",
+            "offsides": "3",
+            "yellow_cards": "2",
+            "foul_conceded": "10"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "50.4",
+            "shots_on_target": "2",
+            "shots": "11",
+            "touches": "655",
+            "passes": "485",
+            "tackels": "17",
+            "clearances": "16",
+            "corners": "4",
+            "offsides": "1",
+            "yellow_cards": "0",
+            "foul_conceded": "7"
+        }
+    },
+    "14": {
+        "matchweek": "Matchweek 4",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "42.8",
+            "shots_on_target": "4",
+            "shots": "13",
+            "touches": "542",
+            "passes": "353",
+            "tackels": "14",
+            "clearances": "8",
+            "corners": "5",
+            "offsides": "2",
+            "yellow_cards": "2",
+            "foul_conceded": "10"
+        },
+        "team2_name": "Leeds United",
+        "team2_stat": {
+            "possession_%": "57.2",
+            "shots_on_target": "2",
+            "shots": "10",
+            "touches": "659",
+            "passes": "475",
+            "tackels": "22",
+            "clearances": "16",
+            "corners": "3",
+            "offsides": "1",
+            "yellow_cards": "3",
+            "foul_conceded": "14"
+        }
+    },
+    "13": {
+        "matchweek": "Matchweek 5",
+        "team1_name": "Fulham",
+        "team1_stat": {
+            "possession_%": "39.1",
+            "shots_on_target": "3",
+            "shots": "10",
+            "touches": "545",
+            "passes": "344",
+            "tackels": "26",
+            "clearances": "22",
+            "corners": "3",
+            "offsides": "0",
+            "yellow_cards": "2",
+            "foul_conceded": "9"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "60.9",
+            "shots_on_target": "4",
+            "shots": "7",
+            "touches": "736",
+            "passes": "533",
+            "tackels": "23",
+            "clearances": "11",
+            "corners": "3",
+            "offsides": "2",
+            "yellow_cards": "1",
+            "foul_conceded": "11"
+        }
+    },
+    "12": {
+        "matchweek": "Matchweek 6",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "53.5",
+            "shots_on_target": "11",
+            "shots": "23",
+            "touches": "670",
+            "passes": "493",
+            "tackels": "17",
+            "clearances": "5",
+            "corners": "10",
+            "offsides": "2",
+            "yellow_cards": "1",
+            "foul_conceded": "6"
+        },
+        "team2_name": "Leicester City",
+        "team2_stat": {
+            "possession_%": "46.5",
+            "shots_on_target": "4",
+            "shots": "6",
+            "touches": "608",
+            "passes": "436",
+            "tackels": "13",
+            "clearances": "27",
+            "corners": "1",
+            "offsides": "3",
+            "yellow_cards": "1",
+            "foul_conceded": "8"
+        }
+    },
+    "11": {
+        "matchweek": "Matchweek 9",
+        "team1_name": "Liverpool",
+        "team1_stat": {
+            "possession_%": "53.8",
+            "shots_on_target": "7",
+            "shots": "15",
+            "touches": "749",
+            "passes": "530",
+            "tackels": "15",
+            "clearances": "16",
+            "corners": "9",
+            "offsides": "1",
+            "yellow_cards": "1",
+            "foul_conceded": "9"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "46.2",
+            "shots_on_target": "6",
+            "shots": "6",
+            "touches": "657",
+            "passes": "460",
+            "tackels": "23",
+            "clearances": "26",
+            "corners": "2",
+            "offsides": "0",
+            "yellow_cards": "1",
+            "foul_conceded": "13"
+        }
+    },
+    "10": {
+        "matchweek": "Matchweek 10",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "58.9",
+            "shots_on_target": "4",
+            "shots": "14",
+            "touches": "864",
+            "passes": "694",
+            "tackels": "17",
+            "clearances": "7",
+            "corners": "6",
+            "offsides": "2",
+            "yellow_cards": "1",
+            "foul_conceded": "9"
+        },
+        "team2_name": "Tottenham Hotspur",
+        "team2_stat": {
+            "possession_%": "41.1",
+            "shots_on_target": "3",
+            "shots": "8",
+            "touches": "652",
+            "passes": "489",
+            "tackels": "15",
+            "clearances": "19",
+            "corners": "2",
+            "offsides": "3",
+            "yellow_cards": "2",
+            "foul_conceded": "14"
+        }
+    },
+    "9": {
+        "matchweek": "Matchweek 11",
+        "team1_name": "Brentford",
+        "team1_stat": {
+            "possession_%": "27.5",
+            "shots_on_target": "3",
+            "shots": "7",
+            "touches": "444",
+            "passes": "235",
+            "tackels": "12",
+            "clearances": "29",
+            "corners": "2",
+            "offsides": "0",
+            "yellow_cards": "3",
+            "foul_conceded": "12"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "72.5",
+            "shots_on_target": "7",
+            "shots": "21",
+            "touches": "798",
+            "passes": "611",
+            "tackels": "25",
+            "clearances": "9",
+            "corners": "11",
+            "offsides": "3",
+            "yellow_cards": "1",
+            "foul_conceded": "15"
+        }
+    },
+    "8": {
+        "matchweek": "Matchweek 12",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "70.3",
+            "shots_on_target": "7",
+            "shots": "19",
+            "touches": "805",
+            "passes": "623",
+            "tackels": "11",
+            "clearances": "8",
+            "corners": "9",
+            "offsides": "1",
+            "yellow_cards": "3",
+            "foul_conceded": "10"
+        },
+        "team2_name": "Nottingham Forest",
+        "team2_stat": {
+            "possession_%": "29.7",
+            "shots_on_target": "0",
+            "shots": "3",
+            "touches": "435",
+            "passes": "260",
+            "tackels": "13",
+            "clearances": "24",
+            "corners": "1",
+            "offsides": "0",
+            "yellow_cards": "1",
+            "foul_conceded": "14"
+        }
+    },
+    "7": {
+        "matchweek": "Matchweek 13",
+        "team1_name": "Manchester City",
+        "team1_stat": {
+            "possession_%": "48.4",
+            "shots_on_target": "4",
+            "shots": "10",
+            "touches": "591",
+            "passes": "446",
+            "tackels": "14",
+            "clearances": "12",
+            "corners": "6",
+            "offsides": "0",
+            "yellow_cards": "1",
+            "foul_conceded": "11"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "51.6",
+            "shots_on_target": "2",
+            "shots": "8",
+            "touches": "623",
+            "passes": "471",
+            "tackels": "16",
+            "clearances": "11",
+            "corners": "3",
+            "offsides": "4",
+            "yellow_cards": "3",
+            "foul_conceded": "12"
+        }
+    },
+    "6": {
+        "matchweek": "Matchweek 14",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "Brighton",
+            "shots_on_target": "41",
+            "shots": "9",
+            "touches": "19",
+            "passes": "544",
+            "tackels": "349",
+            "clearances": "18",
+            "corners": "21",
+            "offsides": "8",
+            "yellow_cards": "1",
+            "foul_conceded": "16"
+        },
+        "team2_name": "Chelsea",
+        "team2_stat": {
+            "possession_%": "Chelsea",
+            "shots_on_target": "59",
+            "shots": "7",
+            "touches": "15",
+            "passes": "707",
+            "tackels": "513",
+            "clearances": "8",
+            "corners": "16",
+            "offsides": "7",
+            "yellow_cards": "2",
+            "foul_conceded": "6"
+        }
+    },
+    "5": {
+        "matchweek": "Matchweek 15",
+        "team1_name": "Wolverhampton Wanderers",
+        "team1_stat": {
+            "possession_%": "5",
+            "shots_on_target": "8",
+            "shots": "405",
+            "touches": "256",
+            "passes": "18",
+            "tackels": "18",
+            "clearances": "4",
+            "corners": "1",
+            "offsides": "2",
+            "yellow_cards": "1",
+            "foul_conceded": "15"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "8",
+            "shots_on_target": "19",
+            "shots": "821",
+            "touches": "653",
+            "passes": "15",
+            "tackels": "13",
+            "clearances": "9",
+            "corners": "1",
+            "offsides": "0",
+            "yellow_cards": "0",
+            "foul_conceded": "11"
+        }
+    },
+    "4": {
+        "matchweek": "Matchweek 16",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "65.1",
+            "shots_on_target": "2",
+            "shots": "7",
+            "touches": "714",
+            "passes": "526",
+            "tackels": "14",
+            "clearances": "7",
+            "corners": "11",
+            "offsides": "3",
+            "yellow_cards": "2",
+            "foul_conceded": "14"
+        },
+        "team2_name": "Aston Villa",
+        "team2_stat": {
+            "possession_%": "34.9",
+            "shots_on_target": "2",
+            "shots": "8",
+            "touches": "481",
+            "passes": "293",
+            "tackels": "23",
+            "clearances": "34",
+            "corners": "4",
+            "offsides": "1",
+            "yellow_cards": "7",
+            "foul_conceded": "11"
+        }
+    },
+    "3": {
+        "matchweek": "Matchweek 17",
+        "team1_name": "Southampton",
+        "team1_stat": {
+            "possession_%": "33.6",
+            "shots_on_target": "4",
+            "shots": "14",
+            "touches": "515",
+            "passes": "329",
+            "tackels": "16",
+            "clearances": "17",
+            "corners": "4",
+            "offsides": "0",
+            "yellow_cards": "1",
+            "foul_conceded": "9"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "66.4",
+            "shots_on_target": "4",
+            "shots": "7",
+            "touches": "843",
+            "passes": "680",
+            "tackels": "21",
+            "clearances": "12",
+            "corners": "2",
+            "offsides": "1",
+            "yellow_cards": "2",
+            "foul_conceded": "10"
+        }
+    },
+    "2": {
+        "matchweek": "Matchweek 18",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "67.8",
+            "shots_on_target": "5",
+            "shots": "9",
+            "touches": "765",
+            "passes": "597",
+            "tackels": "8",
+            "clearances": "5",
+            "corners": "7",
+            "offsides": "5",
+            "yellow_cards": "3",
+            "foul_conceded": "7"
+        },
+        "team2_name": "Arsenal",
+        "team2_stat": {
+            "possession_%": "32.2",
+            "shots_on_target": "7",
+            "shots": "14",
+            "touches": "441",
+            "passes": "288",
+            "tackels": "19",
+            "clearances": "24",
+            "corners": "4",
+            "offsides": "0",
+            "yellow_cards": "3",
+            "foul_conceded": "11"
+        }
+    },
+    "1": {
+        "matchweek": "Matchweek 19",
+        "team1_name": "Everton",
+        "team1_stat": {
+            "possession_%": "48.9",
+            "shots_on_target": "4",
+            "shots": "10",
+            "touches": "663",
+            "passes": "478",
+            "tackels": "16",
+            "clearances": "15",
+            "corners": "5",
+            "offsides": "1",
+            "yellow_cards": "3",
+            "foul_conceded": "8"
+        },
+        "team2_name": "Brighton and Hove Albion",
+        "team2_stat": {
+            "possession_%": "51.1",
+            "shots_on_target": "8",
+            "shots": "19",
+            "touches": "676",
+            "passes": "512",
+            "tackels": "16",
+            "clearances": "13",
+            "corners": "2",
+            "offsides": "0",
+            "yellow_cards": "1",
+            "foul_conceded": "10"
+        }
+    },
+    "18": {
+        "matchweek": "Matchweek 20",
+        "team1_name": "Brighton and Hove Albion",
+        "team1_stat": {
+            "possession_%": "60.8",
+            "shots_on_target": "9",
+            "shots": "16",
+            "touches": "823",
+            "passes": "650",
+            "tackels": "16",
+            "clearances": "7",
+            "corners": "7",
+            "offsides": "4",
+            "yellow_cards": "1",
+            "foul_conceded": "9"
+        },
+        "team2_name": "Liverpool",
+        "team2_stat": {
+            "possession_%": "39.2",
+            "shots_on_target": "2",
+            "shots": "6",
+            "touches": "592",
+            "passes": "420",
+            "tackels": "19",
+            "clearances": "24",
+            "corners": "1",
+            "offsides": "2",
+            "yellow_cards": "3",
+            "foul_conceded": "15"
+        }
+    }
+}
